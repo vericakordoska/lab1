@@ -1,0 +1,10 @@
+Author: verica.kordoska@students.finki.ukim.mk <verica.kordoska@students.finki.ukim.mk>
+Date:   Fri Mar 16 15:55:17 2018 +0100
+
+    modify li.txt
+
+commit 7b9ca51acfbd76f1a74d317b4b6a8ef5a1faa700
+Author: verica.kordoska@students.finki.ukim.mk <verica.kordoska@students.finki.ukim.mk>
+Date:   Fri Mar 16 15:53:22 2018 +0100
+
+    Initial commit
